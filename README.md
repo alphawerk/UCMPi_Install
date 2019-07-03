@@ -51,9 +51,12 @@ dtparam=uart0=on
 
 ## Installing Node-Red and alphaWerk components
 
-execute the following commands
+execute the following command
 
 ```
 curl -sL https://uhai.alphawerk.co.uk/scripts/quickstart.sh | bash -
 ```
 
+## All Done
+
+Navigate to http://<IP Address>:1080 in a browser to create a user account and start using Node-Red.
