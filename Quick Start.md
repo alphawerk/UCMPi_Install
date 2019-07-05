@@ -59,5 +59,5 @@ curl -sL https://uhai.alphawerk.co.uk/scripts/quickstart | bash -
 
 ## All Done
 
-Navigate to http://<IP Address>:1080 in a browser to create a user account and start using Node-Red.
+Navigate to http://\<IP Address\>:1080 in a browser to create a user account and start using Node-Red.
 
