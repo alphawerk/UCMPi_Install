@@ -54,7 +54,7 @@ dtparam=uart0=on
 execute the following command
 
 ```
-curl -sL https://uhai.alphawerk.co.uk/scripts/quickstart.sh | bash -
+curl -sL https://uhai.alphawerk.co.uk/scripts/quickstart | bash -
 ```
 
 ## All Done
