@@ -14,8 +14,8 @@ For more information on what the UCM/Pi can do with Node-Red, have a look here:
 
 To get started, please take a look at the following:
 
-1.  Get the hardware installed and upload a raspbian image: github.com/alphawerk/UCMPi_Install/Hardware.md
-2.  Install the base Node-Red system: github.com/alphawerk/UCMPi_Install/Quick%20Start.md
+1.  [Get the hardware installed and upload a raspbian image](Hardware.md)
+2.  [Install the base Node-Red system] (Quick%20Start.md)
 
 ### Adding functionality
 
