@@ -6,9 +6,9 @@ Installation instructions for getting started with the UCM/Pi
 
 The UCM/Pi is a Universal Communications Module for the Cytech Comfort range of Security, Home Automation and Environmental Monitoring systems.
 
-For more information on the Cytech range of products, please go here: www.cytech.biz
+For more information on the Cytech range of products, please go [here](www.cytech.biz)
 
-For more information on what the UCM/Pi can do with Node-Red, have a look here: 
+For more information on what the UCM/Pi can do with Node-Red, have a look [here](Inspiration.md) 
 
 ### Getting Started
 
@@ -21,13 +21,13 @@ To get started, please take a look at the following:
 
 Extending the functionality is trivial.
 
-1.  Take a look at some useful flows: 
-2.  Add support for Apple TV:
-3.  Add OpenHab
-4.  Add HomeAssistant
+1.  [Take a look at some useful flows](Flows.md) 
+2.  [Add support for Apple TV](AppleTV.md)
+3.  [Add OpenHab](OpenHab)
+4.  [Add HomeAssistant](HomeAssistant.md)
 
 ## Support
 
-The hardware is supported by Cytech (www.cytech.biz), software is supported by alphaWerk (www.alphawerk.co.uk).
+The hardware is supported by [Cytech](www.cytech.biz), software is supported by [alphaWerk](www.alphawerk.co.uk).
 
-There is a forum for support: www.comfortforum.com
+There is a [forum](www.comfortforum.com) for support
