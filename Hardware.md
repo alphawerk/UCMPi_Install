@@ -5,4 +5,5 @@
 
 ## Useful Links
 
-A guide for flashing the CM3 / CM3+ can be found [here](https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md)
+A guide for flashing the Compute Module (CM3/CM3+) can be found [here](https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md)
+More information on the Compute Module can be found [here](https://www.raspberrypi.org/documentation/hardware/computemodule/)
