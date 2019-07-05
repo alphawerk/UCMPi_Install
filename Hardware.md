@@ -2,10 +2,12 @@
 
 ## Pre-requisits
 
-1. Comfort II System running firmware 7.xxx or above . 
+1. Comfort II System running firmware 7.xxx or above
+
 ...The Comfort system should have enough available power to supply the UCM/Pi. Ideally the UCM/Pi should be mounted connected to and powered by a master or slave panel with its own PSU and battery with no other UCM's connected.
 2. 100/1000 Gb Ethernet connection to the panel where the UCM/Pi will be mounted
-3. CM3 or CM3+ which can be bought from a list of suppliers found [here](https://www.raspberrypi.org/products/compute-module-3-plus/) . 
+3. CM3 or CM3+ which can be bought from a list of suppliers found [here](https://www.raspberrypi.org/products/compute-module-3-plus/)
+
 ...A CM3/CM3+ may be bought pre-configured from alphawerk, please contact matt.brain@alphawerk.co.uk for more information. If you have a pre-configured CM3/CM3+ you may skip any steps which involve flashing or configuring the operating system and node-red found in this guide
 
 4. Access to a USB Keyboard and Monitor or TV with HDMI input to assist with flashing
