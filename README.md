@@ -21,10 +21,10 @@ To get started, please take a look at the following:
 
 Extending the functionality is trivial.
 
-1.  [Take a look at some useful flows](Flows.md) 
-2.  [Add support for Apple TV](AppleTV.md)
-3.  [Add OpenHab](OpenHab)
-4.  [Add HomeAssistant](HomeAssistant.md)
+1.  [Take a look at some useful flows](Flows.md) - Coming soon
+2.  [Add support for Apple TV](AppleTV.md) - Coming soon
+3.  [Add OpenHab](OpenHab) - Coming Soon
+4.  [Add HomeAssistant](HomeAssistant.md) - Coming Soon
 
 ## Support
 
