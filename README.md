@@ -22,9 +22,11 @@ To get started, please take a look at the following:
 Extending the functionality is trivial.
 
 1.  [Take a look at some useful flows](Flows.md) - Coming soon
-2.  [Add support for Apple TV](AppleTV.md) - Coming soon
-3.  [Add OpenHab](OpenHab) - Coming Soon
-4.  [Add HomeAssistant](HomeAssistant.md) - Coming Soon
+2.  [Add Z-Wave Support](https://docs.google.com/document/d/1nw2b8QxN9YDA3P5gQ_1x75n3s7E8fAniV4mJ3EgiZQA/edit#heading=h.j7b63wj3ndpl)
+3.  [Add Apple Homekit Support](Homekit.md)
+4.  [Add support for Apple TV](AppleTV.md) - Coming soon
+5.  [Add OpenHab](OpenHab) - Coming Soon
+6.  [Add HomeAssistant](HomeAssistant.md) - Coming Soon
 
 ## Support
 
