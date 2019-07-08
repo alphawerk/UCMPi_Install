@@ -1,4 +1,4 @@
-# UCMPi_Install
+# Quick Start
 Installation instructions for getting started with the UCM/Pi
 
 ## What is this all about
