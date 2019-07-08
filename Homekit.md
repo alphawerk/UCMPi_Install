@@ -17,7 +17,7 @@ npm install NRCHKB/node-red-contrib-homekit-bridged
 pm2 restart node red
 ```
  
-If you want to make use of the RTSP streaming capability, you will also need some other optional components as below
+If you want to make use of the RTSP streaming capability, you will also need some other optional components as below (taken from [this](https://github.com/KhaosT/homebridge-camera-ffmpeg/wiki/Raspberry-PI) excellent note
 ```
 
 # install build tools
