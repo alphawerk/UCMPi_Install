@@ -22,7 +22,7 @@ To get started, please take a look at the following:
 Extending the functionality is trivial.
 
 1.  [Take a look at some useful flows](Flows.md) - Coming soon
-2.  [Add Z-Wave Support](https://docs.google.com/documen t/d/1nw2b8QxN9YDA3P5gQ_1x75n3s7E8fAniV4mJ3EgiZQA/edit#heading=h.j7b63wj3ndpl) - Courtesy of Keith Milner
+2.  [Add Z-Wave Support](https://docs.google.com/document/d/1nw2b8QxN9YDA3P5gQ_1x75n3s7E8fAniV4mJ3EgiZQA/edit#heading=h.j7b63wj3ndpl) - Courtesy of Keith Milner
 3.  [Add Apple Homekit Support](Homekit.md)
 4.  [Add support for Apple TV](AppleTV.md) - Coming soon
 5.  [Add OpenHab](OpenHab) - Coming Soon
