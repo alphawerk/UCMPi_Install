@@ -18,6 +18,8 @@ pm2 restart node red
 ```
  
 If you want to make use of the RTSP streaming capability, you will also need some other optional components as below (taken from [this](https://github.com/KhaosT/homebridge-camera-ffmpeg/wiki/Raspberry-PI) excellent note)
+
+Please note, you will need ~ 1.5Gb free to install these components as they need to be compiled. Once installed the source materials are deleted, freeing up much of the working disk space.
 ```
 
 # install build tools
@@ -32,14 +34,19 @@ cd fdk-aac
 make -j4
 sudo make install
 sudo ldconfig
-cd ..
+
 
 # download and build ffmpeg
+cd ~
 git clone https://github.com/FFmpeg/FFmpeg.git
 cd FFmpeg
 ./configure --prefix=/usr/local --arch=armel --target-os=linux --enable-omx-rpi --enable-nonfree --enable-gpl --enable-libfdk-aac --enable-mmal --enable-libx264 --enable-decoder=h264 --enable-network --enable-protocol=tcp --enable-demuxer=rtsp
 make -j4
 sudo make install
-https://github.com/NRCHKB/node-red-contrib-homekit-bridged
-```
 
+# delete the sources
+cd ..
+sudo rm -r FFMpeg
+sudo rm -r fdk-aac
+```
+ 
