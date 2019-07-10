@@ -4,7 +4,8 @@
 
 1. Comfort II System running firmware 7.xxx or above
 
-   The Comfort system should have enough available power to supply the UCM/Pi. Ideally the UCM/Pi should be mounted connected to and powered by a master or slave panel with its own PSU and battery with no other UCM's connected.
+   The Comfort system should have enough available power to supply the UCM/Pi. Ideally the UCM/Pi should be mounted, connected to and directly powered by a master or slave panel with its own PSU and battery with no other UCM's connected.
+   The UCM/Pi may crash or restart if the power supply isn't sufficient.
 2. 100/1000 Gb Ethernet connection to the panel where the UCM/Pi will be mounted
 3. CM3 or CM3+ which can be bought from a list of suppliers found [here](https://www.raspberrypi.org/products/compute-module-3-plus/)
 
