@@ -46,7 +46,7 @@ sudo make install
 
 # delete the sources
 cd ..
-sudo rm -r FFMpeg
+sudo rm -r FFmpeg
 sudo rm -r fdk-aac
 ```
  
