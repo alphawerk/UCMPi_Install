@@ -1,4 +1,4 @@
-# Quick Start
+# Apple TV Quick Start
 Installation instructions for getting started with the UCM/Pi
 
 ## What is this all about
@@ -18,45 +18,14 @@ To get started, you will need
 
 This guide below assumes you have performed the following steps:
 
-1.  Flashed your UCM/Pi with the latest version of Raspbian Lite or Raspbian (https://www.raspberrypi.org/downloads/raspbian/)
-2.  Have been able to connect the UCM/Pi to your network and Confort system, set a hostname and login.
+1.  Completed the Quickstart process from here: (https://www.raspberrypi.org/downloads/raspbian/)
 
-## Configuring the Operating System
 
-### Enable the serial port 
+## Installing AppleTV components
 
-`sudo raspi-config` from the command line.
-
-1. Select Menu `5 Interfacing Options`
-2. Select Menu `P6 Serial`
-3. Answer `<No>` to `Would you like a login shell to be acccessible over serial?`
-4. Answer `<Yes>` to `Would you like the serial port hardware to be enable?`
-5. Select Menu `7 Advanced Options`
-6. Select Menu `A1 Expand Filesystem`
-5. Select `<Finish>` and `<Yes>` if prompted to reboot. 
-
-Log back into the UCM/Pi once it has rebooted.
-
-### Edit /boot/config.txt
-
-`sudo nano /boot/config.txt` from the command line.
-
-add the following to the bottom of the text file.
+Log back into the UCM/Pi and execute the following command
 
 ```
-enable_uart=1
-dtoverlay=pi3-disable-bt
-dtparam=uart0=on
+curl -sL https://uhai.alphawerk.co.uk/scripts/quickstart_appletv | bash -
 ```
 
-## Installing Node-Red and alphaWerk components
-
-execute the following command
-
-```
-curl -sL https://uhai.alphawerk.co.uk/scripts/quickstart | bash -
-```
-
-## All Done
-
-Navigate to http://\<IP Address\>:1080 in a browser to create a user account and start using Node-Red.
