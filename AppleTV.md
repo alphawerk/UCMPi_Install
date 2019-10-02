@@ -18,7 +18,7 @@ To get started, you will need
 
 This guide below assumes you have performed the following steps:
 
-1.  Completed the Quickstart process from here: (Quick%20Start.md)
+1.  Completed the Quickstart process from [here:](./Quick%20Start.md)
 
 
 ## Installing AppleTV components
