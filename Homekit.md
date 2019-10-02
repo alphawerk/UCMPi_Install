@@ -12,9 +12,7 @@ Apple HomeKit support is via a [community managed node-red module](https://githu
 To install it, go to the command line and execute the following commands:
 
 ```
-cd ~/.node-red
-npm install NRCHKB/node-red-contrib-homekit-bridged
-pm2 restart node-red
+curl -sL https://uhai.alphawerk.co.uk/scripts/quickstart_homekit | bash -
 ```
  
 If you want to make use of the RTSP streaming capability, you will also need some other optional components as below (taken from [this](https://github.com/KhaosT/homebridge-camera-ffmpeg/wiki/Raspberry-PI) excellent note)
