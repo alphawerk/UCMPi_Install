@@ -23,4 +23,6 @@
 
 A guide for flashing the Compute Module (CM3/CM3+) can be found [here](https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md)
 
+A pre-built operating system image with the necessary hardware changes can be downloaded from [here](https://uhai.alphawerk.co.uk/scripts/cm_alphawerk.img.zip)
+
 More information on the Compute Module can be found [here](https://www.raspberrypi.org/documentation/hardware/computemodule/)
