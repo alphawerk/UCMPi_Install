@@ -23,6 +23,8 @@ This guide below assumes you have performed the following steps:
 
 ## Configuring the Operating System
 
+This section can be skipped if you used the prepared OS image provided by alphawerk when flashing the device (https://)
+
 ### Enable the serial port 
 
 `sudo raspi-config` from the command line.
