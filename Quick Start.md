@@ -23,7 +23,7 @@ This guide below assumes you have performed the following steps:
 
 ## Configuring the Operating System
 
-This section can be skipped if you used the prepared OS image provided by alphawerk when flashing the device (https://)
+This section can be skipped if you used the prepared OS image provided by alphawerk when flashing the device (https://uhai.alphawerk.co.uk/scripts/cm_alphawerk.img.zip)
 
 ### Enable the serial port 
 
