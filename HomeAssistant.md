@@ -4,5 +4,5 @@ sudo usermod -aG docker pi
 
 mkdir ~/alphawerk/homeassistant
 
-sudo docker run --init -d --name="home-assistant"  -v /home/pi/alphawerk/homeassistant:/config -v /etc/timezone:/etc/timezone --net=host homeassistant/raspberrypi3-homeassistant:stable
+sudo docker run --init -d --restart=unless-stopped --name="home-assistant"  -v /home/pi/alphawerk/homeassistant:/config -v /etc/timezone:/etc/timezone --net=host homeassistant/raspberrypi3-homeassistant:stable
 
