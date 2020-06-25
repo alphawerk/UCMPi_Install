@@ -26,7 +26,7 @@ Extending the functionality is trivial.
 3.  [Add Apple Homekit Support](Homekit.md)
 4.  [Add support for Apple TV](AppleTV.md)
 5.  [Add OpenHab](OpenHab) - Coming Soon
-6.  [Add HomeAssistant](HomeAssistant.md) - Coming Soon
+6.  [Add HomeAssistant](HomeAssistant.md)
 
 ## Support
 
