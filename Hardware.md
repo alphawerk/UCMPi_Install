@@ -1,28 +1,24 @@
-# Installing the hardware
+# Install the hardware
 
-## Pre-requisits
+## Pre-requisites
 
-1. Comfort II System running firmware 7.xxx or above
-
-   The Comfort system should have enough available power to supply the UCM/Pi. Ideally the UCM/Pi should be mounted, connected to and directly powered by a master or slave panel with its own PSU and battery with no other UCM's connected.
-   The UCM/Pi may crash or restart if the power supply isn't sufficient.
-2. 100/1000 Gb Ethernet connection to the panel where the UCM/Pi will be mounted
-3. CM3 or CM3+ which can be bought from a list of suppliers found [here](https://www.raspberrypi.org/products/compute-module-3-plus/)
-
-   A CM3/CM3+ may be bought pre-configured from alphawerk, please contact matt.brain@alphawerk.co.uk for more information. If you have a pre-configured CM3/CM3+ you may skip any steps which involve flashing or configuring the operating system and node-red found in this guide
-
+1. Comfort II System running firmware 7.xxx or above - 
+   The Comfort system should have enough available power to supply the UCM-Pi. Ideally the UCM-Pi should be mounted, connected to and directly powered by a master or slave panel with its own PSU and battery with no other UCM's connected.
+   The UCM-Pi may crash or restart if the power supply isn't sufficient.
+2. 100/1000 Gb Ethernet connection to the panel where the UCM-Pi will be mounted
+3. CM3 or CM3+ which can be bought from a list of suppliers found [here](https://www.raspberrypi.org/products/compute-module-3-plus/) - A CM3/CM3+ can be bought pre-configured from alphaWerk (contact matt@alphawerk.co.uk for more information). If you have a pre-configured CM3/CM3+ you may skip any steps which involve flashing or configuring the operating system and node-red found in this guide.
 4. Access to a USB Keyboard and Monitor or TV with HDMI input to assist with flashing
 5. A Windows, Mac or Linux PC
 
 
 ## Setting up the hardware
 
-[Download Cytech UCM/Pi Hardware Manual](http://www.cytech.biz/download_files.php?item_id=1132)
+1. Download a pre-built operating system image with the necessary hardware changes [here](https://uhai.alphawerk.co.uk/scripts/cm_alphawerk.img.zip).
 
-## Useful Links
+2. Flash the CM3/CM3+ with downloaded image. You can use [this guide](https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md) to flashing the Compute Module (CM3/CM3+). 
 
-A guide for flashing the Compute Module (CM3/CM3+) can be found [here](https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md)
+## Useful info
 
-A pre-built operating system image with the necessary hardware changes can be downloaded from [here](https://uhai.alphawerk.co.uk/scripts/cm_alphawerk.img.zip)
+- [Download the Cytech UCM-Pi Hardware Manual](http://www.cytech.biz/download_files.php?item_id=1132)
 
-More information on the Compute Module can be found [here](https://www.raspberrypi.org/documentation/hardware/computemodule/)
+- [Pi Compute Module](https://www.raspberrypi.org/documentation/hardware/computemodule/)
