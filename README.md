@@ -8,7 +8,6 @@ The UCM-Pi is a Universal Communications Module for the [Cytech Comfort](http://
 
 ### Getting Started
 
-To get started, please take a look at the following:
 1.  [Install the hardware](Hardware.md)
 2.  [Configure the sofware](Quick%20Start.md)
 
