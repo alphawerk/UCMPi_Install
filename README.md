@@ -1,6 +1,6 @@
-# UCM/Pi Installation Instructions
+# UCM-Pi Installation Instructions
 
-Installation instructions for getting started with the UCM/Pi
+Installation instructions for getting started with the UCM-Pi
 
 ## Description
 

@@ -1,6 +1,6 @@
-Home Assistant can be installed in docker on the UCM/Pi. There is not enough capacity on a CM3, so a CM3+ with 32Gb of storage is highly recommended
+Home Assistant can be installed in docker on the UCM-Pi. There is not enough capacity on a CM3, so a CM3+ with 32Gb of storage is highly recommended
 
-First, ssh into the UCM/Pi after following the general install process, and run the following
+First, ssh into the UCM-Pi after following the general install process, and run the following
 
 ```bash
 curl -sSL https://get.docker.com | sh

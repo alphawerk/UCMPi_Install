@@ -1,9 +1,9 @@
 # Add Apple Homekit to Node-Red
-Installation instructions for adding Apple HomeKit support to Node-Red on the UCM/Pi
+Installation instructions for adding Apple HomeKit support to Node-Red on the UCM-Pi
 
 ## Getting Started
 
-To get started, you will need to have completed the [Quick Start](Quick%20Start.md) process and have logged in to a shell either via SSH or using a keyboard and monitor plugged into the UCM/Pi
+To get started, you will need to have completed the [Quick Start](Quick%20Start.md) process and have logged in to a shell either via SSH or using a keyboard and monitor plugged into the UCM-Pi
 
 ## Installing Apple HomeKit Support.
 
