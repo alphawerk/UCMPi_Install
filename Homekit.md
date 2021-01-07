@@ -17,7 +17,7 @@ curl -sL https://uhai.alphawerk.co.uk/scripts/quickstart_homekit | bash -
  
 If you want to make use of the RTSP streaming capability, you will also need some other optional components as below (taken from [this](https://github.com/KhaosT/homebridge-camera-ffmpeg/wiki/Raspberry-PI) excellent note)
 
-At the time of writing, you will also need the development version of the Homekit libraries, substitute `nrchkb/node-red-contrib-homekit-bridged#dev` for `NRCHKB/node-red-contrib-homekit-bridged` above.
+~~At the time of writing, you will also need the development version of the Homekit libraries, substitute `nrchkb/node-red-contrib-homekit-bridged#dev` for `NRCHKB/node-red-contrib-homekit-bridged` above.~~
 
 Please note, you will need ~ 1.5Gb free to install these components as they need to be compiled. Once installed the source materials are deleted, freeing up much of the working disk space.
 ```
