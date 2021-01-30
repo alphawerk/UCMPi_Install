@@ -19,6 +19,6 @@
 
 ## Useful info
 
-- [Download the Cytech UCM-Pi Hardware Manual](http://www.cytech.biz/download_files.php?item_id=1132)
+- [Download the Cytech UCM-Pi Hardware Manual](http://www.cytech.biz/download_files.php?item_id=1149)
 
 - [Pi Compute Module](https://www.raspberrypi.org/documentation/hardware/computemodule/)
