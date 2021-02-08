@@ -18,7 +18,7 @@ To get started, you will need
 
 This guide below assumes you have performed the following steps:
 
-1.  Flashed your UCM-Pi with the latest version of Raspbian Lite or Raspbian (https://www.raspberrypi.org/downloads/raspbian/)
+1.  Flashed your UCM-Pi with the latest version of Raspbian Lite or Raspbian (https://www.raspberrypi.org/software/)
 2.  Have been able to connect the UCM-Pi to your network and Comfort system, set a hostname and login.
 
 If not please take a look at [Installing the hardware](Hardware.md)
