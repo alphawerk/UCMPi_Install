@@ -36,7 +36,7 @@ sudo make install
 sudo ldconfig
 
 #update the cm3 firmware
-raspi-update
+rpi-update
 
 # download and build ffmpeg
 cd ~
