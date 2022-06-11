@@ -1,5 +1,7 @@
 # UCM-Pi Installation Instructions
 
+## These instructions are now depreciated: please use https://github.com/alphawerk/ucmpi_os
+
 Installation instructions for getting started with the UCM-Pi
 
 ## Description
